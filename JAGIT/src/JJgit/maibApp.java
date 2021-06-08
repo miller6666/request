@@ -8,7 +8,7 @@ public class maibApp {
 		Math math = new Math();
 		System.out.println(math.add(10,8));
 	}
-
+ 
 }
 class Math{
 	int add(int a, int b) {
